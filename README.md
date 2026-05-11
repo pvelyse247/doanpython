@@ -37,12 +37,11 @@ pip install pygame
 python snake_game_final.py
 
 ## 📁 Cấu trúc project
-📁 doanpython
-├── snake_game_final.py   # Code game chính
-├── snake_icon.png        # Icon hiển thị trên cửa sổ
-├── snake_icon.ico        # Icon dùng khi đóng gói .exe
-└── README.md             # Mô tả project
----
+    📁 doanpython
+        ├── snake_game_final.py   # Code game chính
+        ├── snake_icon.png        # Icon hiển thị trên cửa sổ
+        ├── snake_icon.ico        # Icon dùng khi đóng gói .exe
+        └── README.md             # Mô tả project
 
 ## 🏗️ Công nghệ sử dụng
 
